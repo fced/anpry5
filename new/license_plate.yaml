@@ -1,5 +1,5 @@
-train: /content/anpry5/new/data/train.txt
-val: /content/anpry5/new/data/val.txt
+train: /content/anpry5/new/train.txt
+val: /content/anpry5/new/val.txt
 
 # number of classes
 nc: 1
