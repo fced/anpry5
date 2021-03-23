@@ -1,0 +1,8 @@
+train: /content/anpry5/new/data/train.txt
+val: /content/anpry5/new/data/val.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['license_plate']
